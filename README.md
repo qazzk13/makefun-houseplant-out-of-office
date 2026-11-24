@@ -6,7 +6,7 @@
 
 An out-of-office reply from a houseplant. One line:
 
-> Out of office until somebody waters me. Urgent stuff can wait by the window. I have been dry since Tuesday.
+> Out of office until somebody waters me. Urgent stuff can wait by the window and photosynthesise. Dry since Tuesday.
 
 I have a plant on my desk that basically lives like this, it gets watered when someone remembers and not a day before. Seemed fair to let it write its own auto-reply for once. `main.ts` just writes that line to `/output/entry.txt`, same line on every run.
 

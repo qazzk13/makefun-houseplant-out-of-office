@@ -10,7 +10,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "Out of office until somebody waters me. Urgent stuff can wait by the window. I have been dry since Tuesday.";
+  "Out of office until somebody waters me. Urgent stuff can wait by the window and photosynthesise. Dry since Tuesday.";
 
 const MAX_CHARS = 120;
 
